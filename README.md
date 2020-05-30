@@ -4,7 +4,7 @@ Sarvesh Somasundaram | Arul Sharma | Taha Haveliwala | Abdullah Shahid
 We created a program that looks at various state data such as number of cases and number of available tests, and created a calculator that tells you whether or not it is safe to go outside.
 
 ## Instructions
-Download all the files, including the .py file, the csv file, and the png files. You can do this by clikcing download as zip file and it will download all the files.
+Download all the files, including the .py file, the csv file, and the png files. You can do this by clicking download as zip file and it will download all the files.
 Open the code in an IDE, and make sure that you have the necessary libraries installed.
 You will need to have the libraries tkinter and pandas.
 
