@@ -1,0 +1,51 @@
+State,Stay at Home Order,Buisnesses Open,Gatherings of More Than 10 People,"Confirmed Case from 100,000","Tests from 100,000",Stay At Home Value,Buisnesses Open Value,Gatherings of More Than 10 People Value,"Confirmed Case from 100,000 Values","Tests from 100,000 Values"
+Alabama,1,1,1,0.175588865,0.69,No Order,All Buisnesses,Gatherings of 10 people are allowed,328,4049
+Alaska,1,1,1,0.029978587,0.315,No Order,All Buisnesses,Gatherings of 10 people are allowed,56,6287
+Arizona,1,0.75,1,0.129014989,0.89,No Order,All Buisnesses with restrictions,Gatherings of 10 people are allowed,241,2737
+Arkansas,1,0.75,1,0.111349036,0.695,No Order,All Buisnesses with restrictions,Gatherings of 10 people are allowed,208,3937
+California,0,0.25,0,0.133832976,0.6,There is An Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,250,4391
+Colorado,1,0.25,1,0.232869379,0.86,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are allowed,435,2832
+Connecticut,1,0.25,0,0.618843683,0.277,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,1156,6592
+Delaware,0,0.25,0,0.503211991,0.37,There is An Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,940,5730
+Florida,1,0.25,0,0.132226981,0.6,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,247,4391
+Georgia,0,0.75,1,0.226980728,0.67,Only For Those At Risk,All Buisnesses with restrictions,Gatherings of 10 people are allowed,424,4190
+Hawaii,0,0.5,0,0.024089936,0.725,There is An Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,45,3649
+Idaho,1,0.5,1,0.082441113,1,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are allowed,154,2438
+Illinois,1,0.5,0,0.48019272,0.305,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,897,6310
+Indiana,1,0.75,1,0.259635974,0.742,No Order,All Buisnesses with restrictions,Gatherings of 10 people are allowed,485,3517
+Iowa,1,0.75,1,0.309421842,0.655,No Order,All Buisnesses with restrictions,Gatherings of 10 people are allowed,578,4409
+Kansas,1,0.25,0,0.171841542,0.85,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,321,2902
+Kentucky,1,0.25,0,0.108672377,0.685,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,203,4072
+Louisiana,1,0.5,0,0.442184154,0.185,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,826,7460
+Maine,0,0.5,0,0.085653105,0.75,There is An Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,160,3446
+Maryland,1,0.5,0,0.428800857,0.61,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,801,4337
+Massachusetts,1,0.25,0,0.730728051,0.135,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,1365,8000
+Michigan,0,0.25,0,0.29764454,0.5,There is An Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,556,4701
+Minnesota,1,0.25,0,0.214132762,0.705,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,400,3859
+Mississippi,1,1,1,0.251605996,0.452,No Order,All Buisnesses,Gatherings of 10 people are allowed,470,4950
+Missouri,1,0.25,0,0.109207709,0.9,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,204,2698
+Montana,1,0.5,0,0.024089936,0.755,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,45,3355
+Nebraska,1,0.25,0,0.360278373,0.492,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,673,4838
+Nevada,1,0.5,1,0.141327623,0.76,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are allowed,264,3313
+New Hampshire,0,0.25,0,0.169164882,0.495,There is An Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,316,4836
+New Jersey,0,0.25,0,0.94111349,0.187,There is An Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,1758,7412
+New Mexico,1,0.5,0,0.185224839,0.075,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,346,8621
+New York,1,0.25,0,1,0,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,1868,9270
+North Carolina,1,0.25,0,0.126873662,0.745,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,237,3507
+North Dakota,1,0.25,0,0.171841542,0.05,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,321,8860
+Ohio,1,0.5,0,0.153104925,0.8,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,286,3060
+Oklahoma,1,0.25,0,0.084582441,0.55,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,158,4657
+Oregon,0,0.25,0,0.051391863,0.88,There is An Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,96,2790
+Pennsylvania,0,0.5,1,0.290149893,0.77,There is An Order,Most Buisnesses with restrictions,Gatherings of 10 people are allowed,542,3275
+Rhode Island,1,0.25,0,0.726445396,0,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,1357,"13,088"
+South Carolina,1,0.5,1,0.111884368,0.735,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are allowed,209,3563
+South Dakota,1,0.25,0,0.285867238,0.64,No Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,534,4308
+Tennessee,1,0.5,0,0.16862955,0.34,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,315,6051
+Texas,1,0.75,1,0.108137045,0.84,No Order,All Buisnesses with restrictions,Gatherings of 10 people are allowed,202,2981
+Utah,1,0.5,1,0.147216274,0.302,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are allowed,275,6347
+Vermont,1,0.5,0,0.082976445,0.452,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are not allowed,155,4950
+Virginia,0,0.25,0,0.240364026,0.78,There is An Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,449,3229
+Washington,0,0.25,0,0.143468951,0.65,There is An Order,Some Buisnesses with restrictions,Gatherings of 10 people are not allowed,268,4416
+West Virginia,1,0.5,1,0.055139186,0.45,No Order,Most Buisnesses with restrictions,Gatherings of 10 people are allowed,103,4954
+Wisconsin,1,1,1,0.151498929,0.7,No Order,All Buisnesses,Gatherings of 10 people are allowed,283,3906
+Wyoming,1,0.75,1,0.079764454,0.715,No Order,All Buisnesses with restrictions,Gatherings of 10 people are allowed,149,3749
