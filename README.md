@@ -20,10 +20,6 @@ https://covidtracking.com/data
 
 https://wallethub.com/edu/states-where-social-distancing-is-most-difficult/73336/
 
-We converted the data above into the data on this google sheet, the data from that sheet was then manipulated by us to reflect the weights.
-
-https://docs.google.com/spreadsheets/d/1EG7aU_W0PIatO31obzusmoreEXVSu-2CBVBpR4v6yLU/edit?usp=sharing
-
 
 ### Devpost
 More details about how we got the numbers and what they mean can be found here:
